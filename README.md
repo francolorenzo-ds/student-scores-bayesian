@@ -79,7 +79,7 @@ install.packages(c("rstanarm", "bayesplot", "ggplot2", "dplyr", "readr", "knitr"
 ## 🧑‍💻 Author
 
 **Franco Lorenzo**  
-[GitHub](https://github.com/francolorenzo)
+[GitHub](https://github.com/francolorenzo-ds)
 
 ---
 
